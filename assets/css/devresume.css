@@ -12260,7 +12260,7 @@ fieldset:disabled .btn {
     }
 }
 
-@media print {
+/* @media print {
     .d-print-inline {
         display: inline !important
     }
@@ -12302,7 +12302,7 @@ fieldset:disabled .btn {
     .d-print-none {
         display: none !important
     }
-}
+} */
 
 body {
     -webkit-font-smoothing: antialiased;
