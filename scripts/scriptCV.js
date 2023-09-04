@@ -6,15 +6,15 @@ let dictionarySpanish = {
     workExperience: "Experiencia",
 
     workExperienceHeader0: "Middle Software Engineer",
-    workExperienceDate0: "SGM | 2023(Enero) - Present",
+    workExperienceDate0: "SGM | 2023(Enero) - Hoy",
     workExperienceDescription0: "Trabajando en análisis, diseño, programación, pruebas, mantenimiento, implementación, mejora, soporte de sistemas, bases de datos.",
 
     workExperienceHeader1: "Profesor",
-    workExperienceDate1: "UCR | 2022(mar) - Presente",
+    workExperienceDate1: "UCR | 2022(mar) - Hoy",
     workExperienceDescription1: "Conceptos, análisis y desarrollo de la planificación estratégica del área de TI, alineamiento de TI con el plan estratégico de la organización, visión general de la organización del departamento de TI, selección de proyectos, planes de contingencia, análisis de presupuesto y metodologías de compra de tecnología.",
 
     workExperienceHeader2: "Middle Software Engineer",
-    workExperienceDate2: "Crux | 2020(mar) - Presente",
+    workExperienceDate2: "Crux | 2020(mar) - 2020(dic)",
     workExperienceDescription2: "Trabajando en análisis, diseño, programación, pruebas, mantenimiento, implementación, mejora, soporte de sistemas, bases de datos.",
 
     workExperienceHeader3: "Full Stack Developer",
@@ -53,25 +53,36 @@ let dictionarySpanish = {
     interest3: "Trabajo",
     interest4: "Aprender",
     interest5: "Viajes",
+
+    referencesDescription1: "Departamento TI Crux.",
+    referencesDescription2: "Departamento TI INEC.",
+    referencesDescription3: "Departamento TI Grupo Colono.",
+
+    education: "Educación",
+    certifications: "Certificaciones",
+    references: "Referencias",
+  
+
+
 };
 
 let dictionaryEnglish = {
-    profile: "I have been working in IT for more than seven years, I have collaborated in many IT projects, managing to integrate myself into the work teams in a positive and dynamic way, contributing effort and ideas that contribute to the achievement of the goals and objectives in the defined times. I have gradually developed my personal and professional skills, seeking to always give my best in my work. ",
+    profile: "I have been working in computing as a professional for 8 years, I have collaborated in many IT projects in different business areas (public/private) integrating teams with different requirements and people, always managing to integrate in a positive and dynamic way, contributing effort and ideas that contribute to reach the goals and objectives in the defined times. On the other hand, during these years I have gradually developed and improved my personal and professional skills, always seeking to give my best in my work.",
     printHtml: "Print this CV ...",
     downloadPDF: "Download this CV in PDF ...",
     btnLanguage: "Change to spanish",
     workExperience: "Work Experiences",
 
     workExperienceHeader0: "Middle Software Engineer",
-    workExperienceDate0: "SGM | 2023(Enero) - Present",
+    workExperienceDate0: "SGM | 2023(Enero) - Today",
     workExperienceDescription0: "Working on analysis, design, programming, testing, maintenance, implementation, improvement, systems support, databases.",
 
     workExperienceHeader1: "Teacher",
-    workExperienceDate1: "UCR | 2022(mar) - Present",
+    workExperienceDate1: "UCR | 2022(mar) - Today",
     workExperienceDescription1: "Concepts, analysis and development of the strategic planning of the IT area, alignment of IT with the strategic plan of the organization, overview of the organization of the IT department, project selection, contingency plans, budget analysis and methodologies to purchase technology.",
 
     workExperienceHeader2: "Middle Software Engineer",
-    workExperienceDate2: "Crux | 2020(mar) - Present",
+    workExperienceDate2: "Crux | 2020(mar) - 2020(dec)",
     workExperienceDescription2: "Working on analysis, design, programming, testing, maintenance, implementation, improvement, systems support, databases.",
 
     workExperienceHeader3: "Full Stack Developer",
@@ -110,6 +121,17 @@ let dictionaryEnglish = {
     interest3: "Work",
     interest4: "Learn",
     interest5: "Travels",
+
+    referencesDescription1: "IT Department Crux.",
+    referencesDescription2: "IT Department INEC.",
+    referencesDescription3: "IT Department Grupo Colono.",
+
+    education: "Education",
+    certifications: "Certifications",
+    references: "References",
+   
+
+
 };
 
 
