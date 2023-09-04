@@ -116,6 +116,7 @@ let dictionaryEnglish = {
 $(document).ready(function () {
 
     $('#checkDarkMode').prop('checked', false);
+    ChangeLanguageToSpanish();
 
     $("#btnLanguage").click(function () {
         let lang = $("html").attr("lang");
@@ -196,3 +197,15 @@ $(document).ready(function () {
 
 
 });
+
+
+function ChangeLanguageToSpanish() {
+
+    let   dictionary = dictionarySpanish;
+    $("html").attr("lang", "es");
+
+    Object.entries(dictionary).forEach(([key, value]) => {
+        $("#" + key).text(value);
+    });
+
+}
